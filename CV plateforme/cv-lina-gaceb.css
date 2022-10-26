@@ -1,0 +1,30 @@
+body{
+  background: linear-gradient(white, pink,#EE9BD3);
+  text-align: center;
+  font-size: 30px;
+}
+h1
+{
+  color:purple;
+  font-size: 80px;
+  text-shadow: 1px 3px 10px purple ;
+  text-align: center;
+}
+h2
+{
+  color:rgb(212, 14, 163);
+  font-size: 60px;
+}
+
+h3
+{
+  color: #cd72da;
+  font-size: 50px;
+  text-shadow: 1px 3px 3px white;
+}
+
+.img{
+  border-radius: 100%;
+}
+
+
